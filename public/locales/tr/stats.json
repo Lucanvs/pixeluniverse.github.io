@@ -1,0 +1,39 @@
+{
+  "title": "İstatistikler",
+  "profile": {
+    "title": "Profil",
+    "pixelsToday": "Bugün Atılan Pikseller",
+    "pixelsTotal": "Toplam Atılan Pikseller",
+    "loggedAs": "olarak günlüğe kaydedildi",
+    "logout": "Çıkış Yap"
+  },
+  "ranking": {
+    "title": "Sıralama",
+    "username": "Kullanıcı Adı",
+    "pixels": "Pikseller",
+    "totalRanking": "Toplam",
+    "dailyRanking": "Günlük",
+    "reset": "Günlük sıralamalar her gün 00:00 UTC'de sıfırlanır."
+  },
+  "edit": {
+    "title": "Bilgileri düzenle",
+    "emptyPassword": "Boş şifre",
+    "error": "Güncelleme sırasında hata",
+    "password": "Şifre",
+    "email": "Yeni e-posta",
+    "verify": "Hesabın için bir doğrulama bağlantısı yeni e-postanıza gönderildi.",
+    "send": "Gönder"
+  },
+  "activity": {
+    "pixels": {
+      "title": "Piksel Etkinliği (Tüm Kullanıcılar, Son 24 Saat)",
+      "legend": "Nb Piksel Yerleştirildi"
+    },
+    "colors": {
+      "title": "Yerleştirilen Renkler (Tüm Kullanıcılar, Son 24 Saat)"
+    }
+  },
+  "news": {
+    "title": "Haberler"
+  }
+}

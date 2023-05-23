@@ -1,0 +1,7 @@
+/src/config.json
+/chunks
+/chat/*
+node_modules
+.env
+/build
+/backups

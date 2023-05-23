@@ -1,0 +1,39 @@
+{
+  "title": "Stats",
+  "profile": {
+    "title": "Profile",
+    "pixelsToday": "Pixels Today",
+    "pixelsTotal": "Pixels Total",
+    "loggedAs": "Logged as",
+    "logout": "Logout"
+  },
+  "ranking": {
+    "title": "Ranking",
+    "username": "Username",
+    "pixels": "Pixels",
+    "totalRanking": "Total",
+    "dailyRanking": "Daily",
+    "reset": "Daily rankings are reset everyday at 00:00 UTC."
+  },
+  "edit": {
+    "title": "Edit infos",
+    "emptyPassword": "Empty password",
+    "error": "Error during update",
+    "password": "Password",
+    "email": "New email",
+    "verify": "A verification link for your account has been sent to your new email address.",
+    "send": "Send"
+  },
+  "activity": {
+    "pixels": {
+      "title": "Pixel Activity (All Users, Last 24h)",
+      "legend": "Nb Pixels Placed"
+    },
+    "colors": {
+      "title": "Placed Colors (All Users, Last 24h)"
+    }
+  },
+  "news": {
+    "title": "News"
+  }
+}

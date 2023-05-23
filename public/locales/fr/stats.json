@@ -1,0 +1,39 @@
+{
+  "title": "Statistiques",
+  "profile": {
+    "title": "Profil",
+    "pixelsToday": "Pixels Aujourd'hui",
+    "pixelsTotal": "Pixels Total",
+    "loggedAs": "Connecté en tant que",
+    "logout": "Déconnexion"
+  },
+  "ranking": {
+    "title": "Rangs",
+    "username": "Utilisateur",
+    "pixels": "Pixels",
+    "totalRanking": "Total",
+    "dailyRanking": "Journalier",
+    "reset": "Les rangs journaliers sont réinitialisés tout les jours à 00:00 UTC."
+  },
+  "edit": {
+    "title": "Editer infos",
+    "emptyPassword": "Mot de passe vide",
+    "error": "Erreur durant la modification",
+    "password": "Mot de passe",
+    "email": "Nouveau Email",
+    "verify": "Un lien de verification pour votre compte à été envoyé à votre nouvelle addresse email.",
+    "send": "Envoyer"
+  },
+  "activity": {
+    "pixels": {
+      "title": "Activité de Pixels (Tout les Joueurs, Dernières 24h)",
+      "legend": "Nb de Pixels Placés"
+    },
+    "colors": {
+      "title": "Couleurs Posées (Tout les Joueurs, Dernières 24h)"
+    }
+  },
+  "news": {
+    "title": "Actualités"
+  }
+}
